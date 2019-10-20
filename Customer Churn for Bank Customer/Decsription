@@ -1,0 +1,37 @@
+CustomerId- Unique field
+Surname	-
+CreditScore
+Geography	
+Gender
+Age
+Tenure
+Balance
+NumOfProducts
+HasCrCard
+IsActiveMember
+EstimatedSalary
+Exited
+
+
+Following Classification model have been used and below are the confusion matrix:
+
+Logical Regression
+1526	69
+309	96
+
+SVM
+1595	0
+405	0
+
+
+SVM Kernel
+1547	48
+225	180
+
+
+Random Forest
+1521	74
+203	202
+
+
+
